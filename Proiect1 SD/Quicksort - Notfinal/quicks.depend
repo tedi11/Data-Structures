@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677958552 source:c:\users\tudor\desktop\poo\quicks\main.cpp
+	<iostream>
+	<algorithm>
+	<chrono>
+	<fstream>
+

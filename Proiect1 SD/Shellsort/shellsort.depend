@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677960091 source:c:\users\tudor\desktop\poo\shellsort\main.cpp
+	<iostream>
+	<algorithm>
+	<chrono>
+	<fstream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677959807 source:c:\users\tudor\desktop\poo\bubblesort\main.cpp
+	<iostream>
+	<algorithm>
+	<chrono>
+	<fstream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677958503 source:c:\users\tudor\desktop\poo\sortare1\main.cpp
+	<iostream>
+	<algorithm>
+	<chrono>
+	<fstream>
+
